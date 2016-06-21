@@ -1,0 +1,2 @@
+# FreebaseAnalyze
+analyze freebase
